@@ -53,7 +53,7 @@ plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
 
-pass
+
 ```
 
 ## Output:
@@ -64,7 +64,8 @@ pass
 [64.52071006 97.71893491 78.74852071 78.74852071 69.26331361 88.23372781
  59.77810651 92.97633136 83.49112426 64.52071006]
 ```
-![image](https://github.com/UdhayanithiM/Find-the-best-fit-line-using-Least-Squares-Method/assets/127933352/f81626b8-2aa7-4b59-9a38-2a9558f7b688)
+![image](https://github.com/UdhayanithiM/Find-the-best-fit-line-using-Least-Squares-Method/assets/127933352/3b9966cc-90f6-4d54-9619-6e258b351841)
+
 
 
 
